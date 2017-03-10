@@ -1,0 +1,12 @@
+package ejemplo.pkg1.hub;
+
+public class Ejemplo1Hub {
+
+   
+    public static void main(String[] args) {
+  
+        System.out.println("BTS");   
+        
+    }
+    
+}
